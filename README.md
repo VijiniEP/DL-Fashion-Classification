@@ -6,15 +6,11 @@
 Member Details:
 
 |Name|Student ID|Username|
-|-----------|-----------|-----------|
 |Dodanthenna A.D.S|IT20657864|SewwandiDinu|
-|-----------|-----------|-----------|
 |Edirisingha E.P.W.M|IT2041306|VijiniEP|
-|-----------|-----------|-----------|
 |Pragas K|IT20660734|pragas312|
-|-----------|-----------|-----------|
 |Shamrina M.L.F|IT19504100|Shamrina4|
-|-----------|-----------|-----------|
+
 
 ## Project Description
 In different cultures, clothing may be an indication of age, social standing, lifestyle, and gender. People can be recognized by their clothing, for example, "the man in the black coat" or "the woman in the red high heels." Given the significance of clothes in culture, there are several uses for the word fashion classification. Finding the most comparable fashion items in an e-commerce database, for instance, may be made simpler by predicting apparel features from an unlabeled photo. Similar to this, an automated fashion stylist who may suggest outfits based on the user's anticipated style can be powered by the classification of a user's preferred fashion photographs. In surveillance circumstances where information about people's attire might be used to identify criminal suspects, clothing identification in real time may be helpful. The automatic annotation of photographs with tags or descriptions linked to clothes is made easier by fashion classification, improving information retrieval in contexts like social network users' photos.
