@@ -5,9 +5,7 @@
 
 Member Details:
 
-|Name|Student ID|Username
-|Dodanthenna ADS|IT20657864|SewwandiDinu
-|||
-|||
-|||
+|Name|Student ID|Username|
+|-----------|-----------|-----------|
+|Dodanthenna ADS|IT20657864|SewwandiDinu|
 
