@@ -6,13 +6,9 @@
 Member Details:
 
 |Name|Student ID|Username|
-|-----------|-----------|-----------|
 |Dodanthenna A.D.S|IT20657864|SewwandiDinu|
-|-----------|-----------|-----------|
 |Edirisingha E.P.W.M|IT2041306|VijiniEP|
-|-----------|-----------|-----------|
 ||IT20660734|pragas312|
-|-----------|-----------|-----------|
 ||IT19504100|Shamrina4|
 
 ## Project Description
