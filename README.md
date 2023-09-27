@@ -1,7 +1,7 @@
 # Project name : DL-Fashion-Classification
-##Supervised Learning Architecture Using Fashion MNIST Dataset
+## Supervised Learning Architecture Using Fashion MNIST Dataset
 
-###Group Details
+### Group Details
 
 Member Details:
 
