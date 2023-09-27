@@ -6,15 +6,10 @@
 Member Details:
 
 | Name | Student ID | Username |
-| ----------- | ----------- | ----------- |
 | Dodanthenna A.D.S | IT20657864 | SewwandiDinu |
-| ----------- | ----------- | ----------- |
 | Edirisingha E.P.W.M | IT20641306 | VijiniEP |
-| ----------- | ----------- | ----------- |
 | Pragas K|IT20660734|pragas312|
-| ----------- | ----------- | ----------- |
 |Shamrina M.L.F|IT19504100|Shamrina4|
-| ----------- | ----------- | ----------- |
 
 
 ## Project Description
