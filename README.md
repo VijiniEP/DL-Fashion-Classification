@@ -1,3 +1,5 @@
+# DL-Fashion-Classification
+=======
 # Project name : DL-Fashion-Classification
 ## Supervised Learning Architecture Using Fashion MNIST Dataset
 
@@ -26,7 +28,4 @@ Language - Python | Model Training Tool - Google Colab | Integrate Technology Se
 ## Links 
 - Dataset Link: https://www.kaggle.com/datasets/zalando-research/fashionmnist
 -  Repository Link: 
-
-
-
 
