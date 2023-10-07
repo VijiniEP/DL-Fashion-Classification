@@ -1,7 +1,8 @@
 # DL-Fashion-Classification
 
-# Project name : DL-Fashion-Classification
-## Supervised Learning Architecture Using Fashion MNIST Dataset
+# Project name : Fashion Classification
+
+## Fashion MNIST Dataset_Supervised Learning Architecture 
 
 ### Group Details
 
@@ -16,15 +17,13 @@ Member Details:
 
 
 ## Project Description
-In different cultures, clothing may be an indication of age, social standing, lifestyle, and gender. People can be recognized by their clothing, for example, "the man in the black coat" or "the woman in the red high heels." Given the significance of clothes in culture, there are several uses for the word fashion classification. Finding the most comparable fashion items in an e-commerce database, for instance, may be made simpler by predicting apparel features from an unlabeled photo. Similar to this, an automated fashion stylist who may suggest outfits based on the user's anticipated style can be powered by the classification of a user's preferred fashion photographs. In surveillance circumstances where information about people's attire might be used to identify criminal suspects, clothing identification in real time may be helpful. The automatic annotation of photographs with tags or descriptions linked to clothes is made easier by fashion classification, improving information retrieval in contexts like social network users' photos.
+Clothing can be used to indicate age, social standing, lifestyle, and gender in different cultures. Clothing can be used to identify people, such as "the man wearing black coat" or "the lady in the red high heels". Given the cultural relevance of clothing, the term fashion classification has numerous meanings. Predicting apparel attributes from an unlabeled photo, for example, may make it easier to find the most related fashion goods in an e-commerce database.   Similarly, classification of a consumer's favourite fashion images can be used to fuel an automated fashion stylist, who can then recommend apparel based on the user's expected style. Clothing identification in real time may be useful in surveillance situations when information about people's apparel may be utilised to identify criminal suspects. Fashion classification enables the computer-aided labelling of images with tags or descriptions related to clothes, improving the extraction of data in settings such as social media users' photos.
+		Based on how clothing classification is used, the most critical concerns to fix may differ. We will improve fashion classification by annotating images and determining the most similar designs to an apparel item in a query image. Two sophisticated deep learning models are utilized to study, examine, and contrast fashion photograph analysis using publicly available data. It contains several rows of records with various photographs. Each row contains a unique photograph. These models undergo training using actual outcomes to provide an accurate prediction. Four strong machine learning architectures are utilized to explore, analyze, and compare fashion photo analyses using publicly available data. It contains several rows and records various photographs. Each row contains a unique photograph. These algorithms are trained using actual outcomes to provide an accurate prediction. The data set was acquired on the Kaggle platform. To execute supervised learning of architecture models, many strategies are employed. The classification of clothing pictures is calculated, quantified, and analyzed in this paper utilizing supervised CNN architecture, ANN architecture, KNN architecture and VGG19 architecture. These four models' efficacy and result-correctness are compared.
 
-The most pressing issues to address may differ depending on how fashion classification is used. By annotating photographs and identifying the most comparable fashion items to a fashion item in a query image, we will focus on enhancing fashion classification. Using publicly available data, two powerful deep learning architectures are used to investigate, examine, and compare fashion photograph analysis. It has several columns and records with a variety of photographs. There is a distinct photograph in each row. In order to give an accurate prediction, these models are trained using the actual results. Using publicly available data, four powerful machine learning architectures are used to explore, analyze, and compare fashion photograph analysis. It has several columns and records with a variety of photographs. There is a distinct photograph in each row. In order to give an accurate prediction, these models are trained using the actual results.
-
-The Kaggle platform is where the data set is gathered. Different techniques are used to perform supervised learning architecture models. In this report, the classification of fashion photographs using supervised CNN architecture, ANN architecture, VGG19 architecture, and KNN architecture are calculated, quantified, and analyzed. The effectiveness and result accuracy of these four models are contrasted.
 
 ## Technologies
 Language - Python | Model Training Tool - Google Colab | Integrate Technology Service - GitHub
 
 ## Links 
 - Dataset Link: https://www.kaggle.com/datasets/zalando-research/fashionmnist
--  Video Link: 
+-  Video Link: https://youtu.be/9HdO4XrhX9o
